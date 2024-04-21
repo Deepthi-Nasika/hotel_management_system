@@ -2,7 +2,7 @@ package Business.Model;
 
 /**
  *
- * @author Hardik
+ * @author nasik
  */
 
 public class Enterprise {

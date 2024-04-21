@@ -6,7 +6,7 @@ import java.util.List;
 
 /**
  *
- * @author Hardik
+ * @author nasik
  */
 
 public class BusinessEvent extends Enterprise {

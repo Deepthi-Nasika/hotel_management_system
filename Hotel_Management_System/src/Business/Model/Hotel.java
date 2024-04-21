@@ -7,7 +7,7 @@ import Business.Model.Room.RoomType;
 
 /**
  *
- * @author Hardik
+ * @author nasik
  */
 
 public class Hotel extends Enterprise {
